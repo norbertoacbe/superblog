@@ -29,11 +29,6 @@ El estudio de un modelo de clasificación o predicción de riesgo puede comprend
 
 
 
-https://www.researchgate.net/publication/325983636_Credit_risk_analysis_using_machine_learning_classifiers
-
-
-
-
 
 
 
