@@ -1,5 +1,0 @@
-Hola mundo!!
-
-import pandas as pd
-
-pd.read_excel(r"C:/users/norbertoace/dowloads")
