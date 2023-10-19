@@ -60,11 +60,26 @@ y =	+1 si h (x) > 0
 	-1 si h (x) < 0
 
 2.2.4 automatización del aprendizaje de máquina
-Un ámbito importante en el desarrollo del tema es la automatización del aprendizaje de máquina que puntualmente busca el mejor rendimiento generalizado de los aprendices y los preprocesadores de los datos (generalmente) por medio de tuberías (pipelines) que se encargan del ensamble la ejecución y la evaluación de estos modelos [25].
+Un ámbito importante en el desarrollo del tema es la automatización del aprendizaje de máquina que puntualmente busca el mejor rendimiento generalizado de los aprendices y los preprocesadores de los datos (generalmente) por medio de tuberías (pipelines) que se encargan del ensamble la ejecución y la evaluación de estos modelos [25], más adelante se profundiza en esta tecnología.
 3 metodología
-3.1 Extracción, transformación y cargue de la información
-La Universidad cuenta con un sistema de integración de gestión académica y administrativa que registra las transacciones habituales del estudiante. Bajo el desarrollo de la analítica como capacidad institucional se ha implementado un lago de datos que realiza el proceso de extracción, limpieza y cargue de la información en este. 
-SEMMA - buscar
+
+3.1 recopilación y construcción del conjunto de datos
+3.2 peculiaridades de los datos
+3.2.1 valores perdidos y valores atípicos
+3.3 análisis exploratorio de los datos
+3.3.1 análisis univariado
+3.3.1.1 atributos categóricos
+3.3.1.2 atributos numéricos
+3.3.2 análisis multivariado
+3.4 análisis de componentes principales
+3.5 Naive AutoML
+3.6 clasificador por refuerzo de gradiente
+3.6.1 matriz de confusión y AUC-ROC
+3.6.2 curva de aprendizaje
+
+
+
+
 
 
 
